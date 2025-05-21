@@ -27,30 +27,5 @@ email=sithija@234
 phoneNumber=05756745
 address="horana"
 --- User End ---
---- User Start: US0486148920 ---
-username=heshan
-password=1234
-userNumber=US0486148920
-fullName=heshan gamage
-email=heshan@123
-phoneNumber=34445666
-address="hfhvfvhd"
---- User End ---
---- User Start: US0826102918 ---
-username=Manuthi_Sithijage123
-password=12345
-userNumber=US0826102918
-fullName=Manuthi_Sithijage
-email=Manuthi@gmail.com
-phoneNumber=05756745
-address="Galle,Handiyen,Wamata"
---- User End ---
---- User Start: US0947551575 ---
-username=Ramiru
-password=123321
-userNumber=US0947551575
-fullName=Ramiru Rajakaruna
-email=ramiru8dewdun@gmail.com
-phoneNumber=0750299216
-address="No 456 Malabe"
+
 --- User End ---
