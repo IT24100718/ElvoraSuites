@@ -1,28 +1,28 @@
     --- User Start: US0596076876 ---
-    username=jayashan
+    username=Tharshaanth
     password=1234
     userNumber=US0596076876
-    fullName=jayashan
-    email=jguruge2021@gmail.com
-    phoneNumber=0764350677
-    address=""Sampatha",Batagoda,Galpatha"
+    fullName=Tharshaanath
+    email=Tharshaanath@123
+    phoneNumber=0711111111
+    address=""123",kaduwela,Malambe"
     role=admin
     --- User End ---
 --- User Start: US0314409424 ---
-username=madusha
-password=8888
+username=Sithija
+password=0000
 userNumber=US0314409424
-fullName=madusha
-email=madushalakshan026@gmail.com
-phoneNumber=0781359825
-address="51/6A,galabadawatta road, kalalgoda,pannipitiya"
+fullName=Sithija Nilupul
+email=sithijanilupul004@gmail.com
+phoneNumber=0713168481
+address="Horana"
 role=user
 --- User End ---
 --- User Start: US0653512008 ---
-username=sithija
+username=Sithija
 password=1234
 userNumber=US0653512008
-fullName=sithija nilupul
+fullName=Sithija Nilupul
 email=sithija@234
 phoneNumber=05756745
 address="horana"
@@ -37,13 +37,13 @@ phoneNumber=34445666
 address="hfhvfvhd"
 --- User End ---
 --- User Start: US0826102918 ---
-username=Manuthi_Sithijage123
+username=Ramiru
 password=12345
 userNumber=US0826102918
-fullName=Manuthi_Sithijage
-email=Manuthi@gmail.com
+fullName=Ramiru dewdun
+email=ramiru@gmail.com
 phoneNumber=05756745
-address="Galle,Handiyen,Wamata"
+address="Galle"
 --- User End ---
 --- User Start: US0517668395 ---
 username=Sithija
@@ -52,5 +52,5 @@ userNumber=US0517668395
 fullName=Sithija Nilupul
 email=sithijanilupul004@gmail.com
 phoneNumber=0713168481
-address="169/6,Finance watta,near the hospital,"
+address="Horana"
 --- User End ---
