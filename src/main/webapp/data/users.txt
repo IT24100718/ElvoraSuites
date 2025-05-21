@@ -1,0 +1,56 @@
+    --- User Start: US0596076876 ---
+    username=jayashan
+    password=1234
+    userNumber=US0596076876
+    fullName=jayashan
+    email=jguruge2021@gmail.com
+    phoneNumber=0764350677
+    address=""Sampatha",Batagoda,Galpatha"
+    role=admin
+    --- User End ---
+--- User Start: US0314409424 ---
+username=madusha
+password=123456
+userNumber=US0314409424
+fullName=madusha
+email=madushalakshan026@gmail.com
+phoneNumber=0781359825
+address="51/6A,galabadawatta road, kalalgoda,pannipitiya"
+role=user
+--- User End ---
+--- User Start: US0653512008 ---
+username=sithija
+password=1234
+userNumber=US0653512008
+fullName=sithija nilupul
+email=sithija@234
+phoneNumber=05756745
+address="horana"
+--- User End ---
+--- User Start: US0486148920 ---
+username=heshan
+password=1234
+userNumber=US0486148920
+fullName=heshan gamage
+email=heshan@123
+phoneNumber=34445666
+address="hfhvfvhd"
+--- User End ---
+--- User Start: US0826102918 ---
+username=Manuthi_Sithijage123
+password=12345
+userNumber=US0826102918
+fullName=Manuthi_Sithijage
+email=Manuthi@gmail.com
+phoneNumber=05756745
+address="Galle,Handiyen,Wamata"
+--- User End ---
+--- User Start: US0947551575 ---
+username=Ramiru
+password=123321
+userNumber=US0947551575
+fullName=Ramiru Rajakaruna
+email=ramiru8dewdun@gmail.com
+phoneNumber=0750299216
+address="No 456 Malabe"
+--- User End ---
