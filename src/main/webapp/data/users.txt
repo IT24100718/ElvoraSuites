@@ -1,28 +1,5 @@
     --- User Start: US0596076876 ---
-    username=jayashan
-    password=1234
-    userNumber=US0596076876
-    fullName=jayashan
-    email=jguruge2021@gmail.com
-    phoneNumber=0764350677
-    address=""Sampatha",Batagoda,Galpatha"
-    role=admin
-    --- User End ---
---- User Start: US0314409424 ---
-username=madusha
-password=123456
-userNumber=US0314409424
-fullName=madusha
-email=madushalakshan026@gmail.com
-phoneNumber=0781359825
-address="51/6A,galabadawatta road, kalalgoda,pannipitiya"
-role=user
---- User End ---
---- User Start: US0653512008 ---
-username=sithija
-password=1234
-userNumber=US0653512008
-fullName=sithija nilupul
+
 email=sithija@234
 phoneNumber=05756745
 address="horana"
