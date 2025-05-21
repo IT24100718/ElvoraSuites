@@ -1,56 +1,8 @@
     --- User Start: US0596076876 ---
-    username=Tharshaanth
-    password=1234
-    userNumber=US0596076876
-    fullName=Tharshaanath
-    email=Tharshaanath@123
-    phoneNumber=0711111111
-    address=""123",kaduwela,Malambe"
-    role=admin
-    --- User End ---
---- User Start: US0314409424 ---
-username=Sithija
-password=0000
-userNumber=US0314409424
-fullName=Sithija Nilupul
-email=sithijanilupul004@gmail.com
-phoneNumber=0713168481
-address="Horana"
-role=user
---- User End ---
---- User Start: US0653512008 ---
-username=Sithija
-password=1234
-userNumber=US0653512008
-fullName=Sithija Nilupul
+
 email=sithija@234
 phoneNumber=05756745
 address="horana"
 --- User End ---
---- User Start: US0486148920 ---
-username=heshan
-password=1234
-userNumber=US0486148920
-fullName=heshan gamage
-email=heshan@123
-phoneNumber=34445666
-address="hfhvfvhd"
---- User End ---
---- User Start: US0826102918 ---
-username=Ramiru
-password=12345
-userNumber=US0826102918
-fullName=Ramiru dewdun
-email=ramiru@gmail.com
-phoneNumber=05756745
-address="Galle"
---- User End ---
---- User Start: US0517668395 ---
-username=Sithija
-password=12345
-userNumber=US0517668395
-fullName=Sithija Nilupul
-email=sithijanilupul004@gmail.com
-phoneNumber=0713168481
-address="Horana"
+
 --- User End ---
