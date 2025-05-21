@@ -1,0 +1,83 @@
+    --- User Start: US0596076876 ---
+    username=jayashan
+    password=1234
+    userNumber=US0596076876
+    fullName=jayashan
+    email=jguruge2021@gmail.com
+    phoneNumber=0764350677
+    address=""Sampatha",Batagoda,Galpatha"
+    role=admin
+    --- User End ---
+--- User Start: US0314409424 ---
+username=madusha
+password=123456
+userNumber=US0314409424
+fullName=madusha
+email=madushalakshan026@gmail.com
+phoneNumber=0781359825
+address="51/6A,galabadawatta road, kalalgoda,pannipitiya"
+role=user
+--- User End ---
+--- User Start: US0653512008 ---
+username=sithija
+password=1234
+userNumber=US0653512008
+fullName=sithija nilupul
+email=sithija@234
+phoneNumber=05756745
+address="horana"
+--- User End ---
+--- User Start: US0153615444 ---
+username=tgheh
+password=veg
+userNumber=US0153615444
+fullName=gergerhhgeh
+email=geg@gmail.com
+phoneNumber=fdrgew
+address="rge"
+--- User End ---
+--- User Start: US0197319955 ---
+username=Archana
+password=1234
+userNumber=US0197319955
+fullName=Archana Panchali
+email=archana@123
+phoneNumber=07642
+address="jhgkjg"
+--- User End ---
+--- User Start: US0272735742 ---
+username=Sanduni
+password=456
+userNumber=US0272735742
+fullName=Sanduni himasah
+email=sandu@123
+phoneNumber=0788
+address="ghgggg"
+--- User End ---
+--- User Start: US0048120628 ---
+username=hashan
+password=1234
+userNumber=US0048120628
+fullName=hashan j
+email=hashanj@123
+phoneNumber=7858595
+address="ffdbfgfd"
+--- User End ---
+--- User Start: US0486781643 ---
+username=kuhyl ih
+password=kkhg lihj
+userNumber=US0486781643
+fullName=uylbiuhy
+email=kkkkkkkkkkkkkkkkkkkkk@gmail.com
+phoneNumber=mnhg l,
+address=" ,kj"
+--- User End ---
+--- User Start: US0931281314 ---
+username=Nelundi
+password=456
+userNumber=US0931281314
+fullName=Nimasha Nelundi
+email=Nelu@1234
+phoneNumber=0774288935
+address="Kegalle"
+--- User End ---
